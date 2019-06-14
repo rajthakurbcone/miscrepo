@@ -15,7 +15,8 @@ I'm value of an imported variable
 
 
 	<xsl:template match="randomtext">
-This is some random fixed text imported from inline.xsl</xsl:template>
+This is some random fixed text imported from inline.xsl. for test
+	</xsl:template>
 
 
 	<xsl:template match="literal">
